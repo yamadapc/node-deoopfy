@@ -1,0 +1,30 @@
+{
+  "name": "deoopfy",
+  "version": "1.0.0",
+  "description": "Make methods take their context as an argument.",
+  "main": "lib/deoopfy.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yamadapc/node-deoopfy"
+  },
+  "keywords": [
+    "oop",
+    "functional",
+    "util"
+  ],
+  "author": "Pedro Yamada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamadapc/node-deoopfy/issues"
+  },
+  "homepage": "https://github.com/yamadapc/node-deoopfy",
+  "devDependencies": {
+    "tap": "^0.4.9"
+  }
+}
