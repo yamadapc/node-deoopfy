@@ -1,6 +1,6 @@
 {
   "name": "deoopfy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make methods take their context as an argument.",
   "main": "lib/deoopfy.js",
   "directories": {

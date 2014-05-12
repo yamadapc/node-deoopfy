@@ -1,5 +1,5 @@
-exports(method)
----------------
+node-deoopfy
+------------
 Takes a function which acts on a context object, and returns a function which
 takes the context as its first argument.
 
