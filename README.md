@@ -1,5 +1,7 @@
 node-deoopfy
 ------------
+[![Build Status](https://travis-ci.org/yamadapc/node-deoopfy.svg?branch=master)](https://travis-ci.org/yamadapc/node-deoopfy)
+
 Takes a function which acts on a context object, and returns a function which
 takes the context as its first argument.
 
