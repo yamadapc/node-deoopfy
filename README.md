@@ -13,5 +13,5 @@ npm install deoopfy
 And use like:
 ```javascript
 var slice = deoopfy(Array.prototype.slice);
-slice([1, 2, 3], [1]) // => [2, 3]
+slice([1, 2, 3], 1) // => [2, 3]
 ```
